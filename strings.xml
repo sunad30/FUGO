@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">walletv2</string>
+    <string name="initval">"0"</string>
+</resources>
